@@ -42,3 +42,9 @@ The latest version of this plugin can be found at: http://github.com/jystewart/g
 The plugin--and the Generous website--is developed by James Stewart of Ket Lai ltd. You can 
 see his other code at http://github.com/jystewart  find out more about his work at 
 http://www.ketlai.co.uk and read his blog at http://jystewart.net/process/
+
+
+== Changelog ==
+
+= 0.1 =
+* Initial release of plugin
